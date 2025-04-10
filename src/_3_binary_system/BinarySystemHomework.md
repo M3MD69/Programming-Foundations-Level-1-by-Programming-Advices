@@ -4,7 +4,7 @@
 
 ## سؤال ١
 
-- ![Homework](/resources/_1_data_vs_information_knowledge_wisdom/FirstQuestions.png)
+- ![Homework](/resources/_3_binary_system/FirstQuestions.png)
 
 ## الحل
 
@@ -31,7 +31,7 @@
 
 - Write you name in binary
 
-![ASCII Code Table](/resources/_1_data_vs_information_knowledge_wisdom/ASCII-Code-Table.png)
+![ASCII Code Table](/resources/_3_binary_system/ASCII-Code-Table.png)
 
 ## الحل
 
