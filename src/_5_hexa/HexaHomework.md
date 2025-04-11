@@ -103,7 +103,7 @@
 
 - 4722
 
-| Decimal System / 16 | Result  | Integer | Fraction |  Remember   | Result | Hexadecimal System Digit |
+| Decimal System / 16 | Result  | Integer | Fraction |  Remainder  | Result | Hexadecimal System Digit |
 |:-------------------:|:-------:|:-------:|:--------:|:-----------:|:------:|:------------------------:|
 |      4722 / 16      | 295.125 |   295   |  0.125   | 16 * 0.125  |   2    |            2             |
 |      295 / 16       | 18.4375 |   18    |  0.4375  | 16 * 0.4375 |   7    |            7             |
@@ -114,7 +114,7 @@
 
 - 7221
 
-| Decimal System / 16 |  Result  | Integer | Fraction |  Remember   | Result | Hexadecimal System Digit |
+| Decimal System / 16 |  Result  | Integer | Fraction |  Remainder  | Result | Hexadecimal System Digit |
 |:-------------------:|:--------:|:-------:|:--------:|:-----------:|:------:|:------------------------:|
 |      7221 / 16      | 451.3125 |   451   |  0.3125  | 16 * 0.3125 |   5    |            5             |
 |      451 / 16       | 28.1875  |   28    |  0.1875  | 16 * 0.1875 |   3    |            3             |
@@ -125,7 +125,7 @@
 
 - 256
 
-| Decimal System / 16 | Result | Integer | Fraction |  Remember   | Result | Hexadecimal System Digit |
+| Decimal System / 16 | Result | Integer | Fraction |  Remainder  | Result | Hexadecimal System Digit |
 |:-------------------:|:------:|:-------:|:--------:|:-----------:|:------:|:------------------------:|
 |      256 / 16       |   16   |   16    |    0     |   16 * 0    |   0    |            0             |
 |       16 / 16       |   1    |    1    |    0     |   16 * 0    |   0    |            0             |
@@ -135,7 +135,7 @@
 
 - 4444
 
-| Decimal System / 16 | Result  | Integer | Fraction |  Remember   | Result | Hexadecimal System Digit |
+| Decimal System / 16 | Result  | Integer | Fraction |  Remainder  | Result | Hexadecimal System Digit |
 |:-------------------:|:-------:|:-------:|:--------:|:-----------:|:------:|:------------------------:|
 |      4444 / 16      | 277.75  |    1    |   0.75   |  16 * 0.75  |   12   |            C             |
 |      277 / 16       | 17.3125 |   17    |  0.3125  | 16 * 0.3125 |   5    |            5             |
