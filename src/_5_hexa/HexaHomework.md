@@ -4,10 +4,10 @@
 
 ## سؤال ١
 
-- ![Homework](/resources/_6_hexa/questions/FirstQuestions.png)
+- ![Homework](/resources/_5_hexa/questions/FirstQuestions.png)
 
 - تلميح:
-  ![Convert from Hexadecimal to Decimal Example](/resources/_6_hexa/hints/ConvertFromHexadecimalToDecimalExample.png)
+  ![Convert from Hexadecimal to Decimal Example](/resources/_5_hexa/hints/ConvertFromHexadecimalToDecimalExample.png)
 
 ## الحل
 
@@ -92,10 +92,10 @@
 
 ## سؤال ٢
 
-- ![Homework](/resources/_6_hexa/questions/SecondQuestions.png)
+- ![Homework](/resources/_5_hexa/questions/SecondQuestions.png)
 
 - تلميح:
-  ![Convert from Decimal to Hexadecimal Example](/resources/_6_hexa/hints/ConvertFromDecimalToHexadecimalExample.png)
+  ![Convert from Decimal to Hexadecimal Example](/resources/_5_hexa/hints/ConvertFromDecimalToHexadecimalExample.png)
 
 ## الحل
 
@@ -150,10 +150,10 @@
 
 ## سؤال ٣
 
-- ![Homework](/resources/_6_hexa/questions/ThirdQuestions.png)
+- ![Homework](/resources/_5_hexa/questions/ThirdQuestions.png)
 
 - تلميح:
-  ![Convert from Hexadecimal to Binary Example](/resources/_6_hexa/hints/ConvertFromHexadecimalToBinaryExample.png)
+  ![Convert from Hexadecimal to Binary Example](/resources/_5_hexa/hints/ConvertFromHexadecimalToBinaryExample.png)
 
 ## الحل
 
