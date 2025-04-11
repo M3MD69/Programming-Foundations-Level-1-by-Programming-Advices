@@ -4,7 +4,10 @@
 
 ## سؤال ١
 
-- ![Homework](/resources/_3_binary_system/FirstQuestions.png)
+- ![Homework](/resources/_3_binary_system/questions/FirstQuestions.png)
+
+- تلميح:
+  ![Convert from Decimal to Binary Example](/resources/_3_binary_system/hints/ConvertFromDecimalToBinaryExample.png)
 
 ## الحل
 
@@ -31,9 +34,14 @@
 
 - Write you name in binary
 
-![ASCII Code Table](/resources/_3_binary_system/ASCII-Code-Table.png)
+<div dir="rtl">
+
+- تلميح:
+  ![ASCII Code Table](/resources/_3_binary_system/hints/ASCII-Code-Table.png)
 
 ## الحل
+
+</div>
 
 - Mohamed
 
