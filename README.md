@@ -1,6 +1,6 @@
-# [Programming Foundations Level 1](https://programmingadvices.com/p/00316b)
-
 <div dir="rtl">
+
+# [أساسيات البرمجة مستوى ١](https://programmingadvices.com/p/00316b)
 
 1. [الفرق بين البيانات، المعلومات، المعرفة، والحكمة](src/_1_data_vs_information_vs_knowledge_vs_wisdom)
 2. [ما هو الكمبيوتر وما هي وظائفه ومكوناته؟](src/_2_what_is_computer)
@@ -11,7 +11,7 @@
 7. [ النظام السادس عشر الجزء الثاني](src/_7_hexa_part_2)
 8. [النظام الثماني في الكمبيوتر](src/_8_octal)
 9. [آلة حاسبة المبرمجين](src/_9_programmer_calculator)
-10. ~~[الشبكات]()~~
+10. [الشبكات](src/_10_networks_part_1)
 11. ~~[لغات البرمجة - الجزء الاول]()~~
 12. ~~[لغات البرمجة الجزء الثاني - الفرق بين الكومبالير والانتربرتر]()~~
 13. ~~[لغات البرمجة الجزء الثالث]()~~
