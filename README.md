@@ -17,7 +17,7 @@
 13. [لغات البرمجة الجزء الثالث](src/_13_which_programming_language_is_better)
 14. [لماذا يجب ان تبدأ بتعلم سي بلس بلس](src/_14_why_you_should_start_with_c_plus_plus)
 15. [العمليات في الكمبيوتر](src/_15_operators_in_compter)
-16. ~~[أولويات الحساب]()~~
+16. [أولويات الحساب](src/_16_calculations_priorities)
 17. ~~[المتغيرات والثوابت]()~~
 18. ~~[عوامل البت وايز]()~~
 
