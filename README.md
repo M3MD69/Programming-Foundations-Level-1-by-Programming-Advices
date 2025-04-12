@@ -13,7 +13,7 @@
 9. [آلة حاسبة المبرمجين](src/_9_programmer_calculator)
 10. [الشبكات](src/_10_networks_part_1)
 11. [لغات البرمجة الجزء الاول](src/_11_programming_languages_and_levels)
-12. [لغات البرمجة الجزء الثاني - الفرق بين الكومبالير والانتربرتر](src/_12_compiler_vs_interpreter)
+12. [لغات البرمجة الجزء الثاني - الفرق بين الكومبايلر والإنتربرتر](src/_12_compiler_vs_interpreter)
 13. [لغات البرمجة الجزء الثالث](src/_13_which_programming_language_is_better)
 14. [لماذا يجب ان تبدأ بتعلم سي بلس بلس](src/_14_why_you_should_start_with_c_plus_plus)
 15. [العمليات في الكمبيوتر](src/_15_operators_in_compter)
